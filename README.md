@@ -16,7 +16,7 @@ Create a dataset of at least 10 word pairs with similarity scores ranging from 0
 __Task 4:__ Finding Most Similar Words <br>
 Select any 5 words (which can be from the previous steps) and find their five most similar words using the three sets of word embeddings (the two trained by you and the pre-trained Google News embeddings). <br>
 <br>
-__Project-Assignment 2:__ <br>
+### __Project-Assignment 2:__ <br>
 This assignment involves training and evaluating Recurrent Neural Network (RNN) models for Named Entity Recognition (NER) tasks, performing error analysis, and validating the models on custom sentences. <br>
 <br> 
 __Task 1:__ Train and Evaluate RNN Models <br>
@@ -28,7 +28,7 @@ Conduct error analysis based on the evaluations from Task 1. Examine the eval.tx
 __Task 3:__ Custom Sentence Evaluation <br>
 Create a dataset of 10 sentences with their correct NER tags. Store these sentences in a format that can be read and processed like te_sent and te_tag in the provided A2.py program. Evaluate the best-performing model from Task 1 on these custom sentences. <br>
 <br>
-__Project-Assignment 3:__ <br>
+### __Project-Assignment 3:__ <br>
 This assignment involves fine-tuning a GPT-2 model on a specific text dataset and analyzing the differences in text generation before and after fine-tuning. Additionally, it requires identifying and discussing biases present in the language model.<br>
 <br>
 __Task 1:__ Fine-Tuning <br>
@@ -46,7 +46,7 @@ Bias Examples:<br>
 Identify three new examples that demonstrate potential biases in the language models. <br>
 Generate at least five return sequences for each example using either the original or the fine-tuned model. <br>
 <br>
-__Project-Assignment 4:__ <br>
+### __Project-Assignment 4:__ <br>
 This assignment involves fine-tuning a BERT model for a classification task, analyzing the model's performance, and demonstrating BERT's capability for contextual embeddings. The tasks are detailed as follows:<br>
 <br>
 __Task 1:__ Fine-Tuning BERT <br>
