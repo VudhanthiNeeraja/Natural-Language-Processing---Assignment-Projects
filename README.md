@@ -1,5 +1,6 @@
 # Natural-Language-Processing---Assignment-Projects
-These assignment projects include a series of reports and corresponding Python scripts that document and implement a comprehensive machine learning workflow. <br>
+These assignment projects include a series of reports and corresponding Python scripts that document and implement a comprehensive machine learning workflow. <br> 
+<br>
 __Project-Assignment 1:__ <br>
 This assignment involves training Word2Vec models using Gensim to generate word embeddings and comparing their performance using various tasks. <br>
 <br>
